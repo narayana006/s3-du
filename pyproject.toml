@@ -1,0 +1,28 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "s3-du"
+version = "0.1.0"
+description = "A du for Amazon S3: bucket sizes from CloudWatch storage metrics, per-prefix breakdowns by listing, split by storage class."
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [{ name = "Narayana Vemburaj" }]
+dependencies = ["boto3>=1.28"]
+
+[project.optional-dependencies]
+dev = ["pytest>=7", "moto[s3,cloudwatch]>=5"]
+
+[project.scripts]
+s3-du = "s3_du.cli:main"
+
+[project.urls]
+Homepage = "https://github.com/narayana006/s3-du"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
