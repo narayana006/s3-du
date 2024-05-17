@@ -1,0 +1,30 @@
+{
+  "_comment": "Hand-written sample CloudWatch answers for examples/cloudwatch_demo.py. Not from a real account.",
+  "buckets": {
+    "acme-app-logs": {
+      "region": "us-east-1",
+      "objects": 1841220,
+      "bytes_by_storage_type": {"StandardStorage": 412316860416, "StandardIAStorage": 96636764160, "GlacierStorage": 2748779069440, "GlacierObjectOverhead": 58720256}
+    },
+    "acme-data-lake": {
+      "region": "us-east-1",
+      "objects": 96412,
+      "bytes_by_storage_type": {"IntelligentTieringFAStorage": 1319413953331, "IntelligentTieringIAStorage": 5277655813324}
+    },
+    "acme-backups-eu": {
+      "region": "eu-west-1",
+      "objects": 318,
+      "bytes_by_storage_type": {"DeepArchiveStorage": 10995116277760, "StandardStorage": 21474836480}
+    },
+    "acme-static-site": {
+      "region": "eu-west-1",
+      "objects": 2204,
+      "bytes_by_storage_type": {"StandardStorage": 187695104}
+    },
+    "acme-scratch": {
+      "region": "us-east-1",
+      "objects": 0,
+      "bytes_by_storage_type": {}
+    }
+  }
+}

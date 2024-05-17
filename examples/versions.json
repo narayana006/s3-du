@@ -1,0 +1,14 @@
+{
+  "Versions": [
+    {"Key": "site/index.html", "VersionId": "v3EXAMPLE", "IsLatest": true, "Size": 48211, "StorageClass": "STANDARD", "LastModified": "2024-03-09T10:00:00+00:00"},
+    {"Key": "site/index.html", "VersionId": "v2EXAMPLE", "IsLatest": false, "Size": 47102, "StorageClass": "STANDARD", "LastModified": "2024-02-11T10:00:00+00:00"},
+    {"Key": "site/index.html", "VersionId": "v1EXAMPLE", "IsLatest": false, "Size": 45990, "StorageClass": "STANDARD", "LastModified": "2024-01-07T10:00:00+00:00"},
+    {"Key": "site/assets/app.js", "VersionId": "v2EXAMPLE", "IsLatest": true, "Size": 912004, "StorageClass": "STANDARD", "LastModified": "2024-03-09T10:00:00+00:00"},
+    {"Key": "site/assets/app.js", "VersionId": "v1EXAMPLE", "IsLatest": false, "Size": 899120, "StorageClass": "STANDARD", "LastModified": "2024-01-07T10:00:00+00:00"},
+    {"Key": "media/intro.mp4", "VersionId": "v1EXAMPLE", "IsLatest": true, "Size": 734003200, "StorageClass": "STANDARD_IA", "LastModified": "2023-11-02T10:00:00+00:00"},
+    {"Key": "media/old-intro.mp4", "VersionId": "v1EXAMPLE", "IsLatest": false, "Size": 698351616, "StorageClass": "STANDARD_IA", "LastModified": "2023-06-20T10:00:00+00:00"}
+  ],
+  "DeleteMarkers": [
+    {"Key": "media/old-intro.mp4", "VersionId": "dmEXAMPLE", "IsLatest": true, "LastModified": "2023-11-02T10:05:00+00:00"}
+  ]
+}

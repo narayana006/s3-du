@@ -1,0 +1,369 @@
+{
+ "Contents": [
+  {
+   "Key": "README.txt",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"570dc1951c2442f9298cb3a570ccec31\"",
+   "Size": 2140,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "backups/db/full-2024-03-01.dump",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"1a81682c64e50cad66237a0465e7e423\"",
+   "Size": 332859965440,
+   "StorageClass": "DEEP_ARCHIVE"
+  },
+  {
+   "Key": "backups/db/full-2024-03-08.dump",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"0fef792866836886a260cd0b7b45145c\"",
+   "Size": 335007449088,
+   "StorageClass": "DEEP_ARCHIVE"
+  },
+  {
+   "Key": "backups/db/incr-2024-03-09.dump",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"3571810afc132d0d113db17d30cbc97d\"",
+   "Size": 6442450944,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/adhoc/query-0.csv",
+   "LastModified": "2024-01-01T03:15:00+00:00",
+   "ETag": "\"0dd27a65bd628881ad1b72dba7abe1c2\"",
+   "Size": 20971520,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "exports/adhoc/query-1.csv",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"f3aed0b6c7ac1491def88334e647cb8f\"",
+   "Size": 15728640,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "exports/adhoc/query-2.csv",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"6472f1a38f2c6ec8cc4169a3ae3a2b7f\"",
+   "Size": 29360128,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "exports/daily/report-00.parquet",
+   "LastModified": "2024-01-01T03:15:00+00:00",
+   "ETag": "\"bd0561e6211c70cf49952399c4aaeac1\"",
+   "Size": 55574528,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-01.parquet",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"df1582b0eab477d26415479c65dc9f50\"",
+   "Size": 57671680,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-02.parquet",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"66d2287672fdf2022a96fb1a14a0f9e7\"",
+   "Size": 74448896,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-03.parquet",
+   "LastModified": "2024-04-04T03:15:00+00:00",
+   "ETag": "\"d1bc52d9230d977ee22571594720771f\"",
+   "Size": 78643200,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-04.parquet",
+   "LastModified": "2024-05-05T03:15:00+00:00",
+   "ETag": "\"b4d66a3a47469a4d8cdb305fdd2e1609\"",
+   "Size": 70254592,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-05.parquet",
+   "LastModified": "2024-06-06T03:15:00+00:00",
+   "ETag": "\"e25a7605aec6f0245bd86d40fc891b4a\"",
+   "Size": 69206016,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-06.parquet",
+   "LastModified": "2024-07-07T03:15:00+00:00",
+   "ETag": "\"153e7c2a26a2c0bd3b1287fff52ddf5d\"",
+   "Size": 67108864,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-07.parquet",
+   "LastModified": "2024-08-08T03:15:00+00:00",
+   "ETag": "\"3bbbe9eaa8948c893b61867626bb7dbd\"",
+   "Size": 53477376,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-08.parquet",
+   "LastModified": "2024-09-09T03:15:00+00:00",
+   "ETag": "\"2eae05cf96d0cc5fd4c28c2e7c26847f\"",
+   "Size": 41943040,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-09.parquet",
+   "LastModified": "2024-01-10T03:15:00+00:00",
+   "ETag": "\"6b4013ef254b0c4e010c4759482c9cbc\"",
+   "Size": 58720256,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-10.parquet",
+   "LastModified": "2024-02-11T03:15:00+00:00",
+   "ETag": "\"519088f590fbbd119c1caaf75e8766ed\"",
+   "Size": 77594624,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "exports/daily/report-11.parquet",
+   "LastModified": "2024-03-12T03:15:00+00:00",
+   "ETag": "\"f341e07a83f73f16dbf4a8b2b0c4312d\"",
+   "Size": 50331648,
+   "StorageClass": "STANDARD_IA"
+  },
+  {
+   "Key": "logs/app/2024/01/01/events.json.gz",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"a6a3a4506513270e269e0d37f2a74de4\"",
+   "Size": 274726912,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/02/events.json.gz",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"1818e811892f902bd23f0824128b2f33\"",
+   "Size": 201326592,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/03/events.json.gz",
+   "LastModified": "2024-04-04T03:15:00+00:00",
+   "ETag": "\"81e74ef5e8e25d940ed904759531985d\"",
+   "Size": 286261248,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/04/events.json.gz",
+   "LastModified": "2024-05-05T03:15:00+00:00",
+   "ETag": "\"6b0d549b6f03675a1600a35a099950d8\"",
+   "Size": 245366784,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/05/events.json.gz",
+   "LastModified": "2024-06-06T03:15:00+00:00",
+   "ETag": "\"6cad4a268d116ece1738f7d93d9c1724\"",
+   "Size": 206569472,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/06/events.json.gz",
+   "LastModified": "2024-07-07T03:15:00+00:00",
+   "ETag": "\"f28c105d1fb17c2390c192cfd3ac94af\"",
+   "Size": 204472320,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/07/events.json.gz",
+   "LastModified": "2024-08-08T03:15:00+00:00",
+   "ETag": "\"f29d0da9953f48f1a09f76b5a170b338\"",
+   "Size": 248512512,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/01/08/events.json.gz",
+   "LastModified": "2024-09-09T03:15:00+00:00",
+   "ETag": "\"0cb1e29c658cda1495e60af593bd04cf\"",
+   "Size": 204472320,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/01/events.json.gz",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"2217beaddbc496cb8e81973e0becd7b0\"",
+   "Size": 247463936,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/02/events.json.gz",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"1e27a1c08a6a63ec24ede6a46b4cb242\"",
+   "Size": 266338304,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/03/events.json.gz",
+   "LastModified": "2024-04-04T03:15:00+00:00",
+   "ETag": "\"ae97ba94d0eda82f8f6d05584ef8aa38\"",
+   "Size": 341835776,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/04/events.json.gz",
+   "LastModified": "2024-05-05T03:15:00+00:00",
+   "ETag": "\"a38fd547923a736994e3bf911a61dbe2\"",
+   "Size": 236978176,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/05/events.json.gz",
+   "LastModified": "2024-06-06T03:15:00+00:00",
+   "ETag": "\"b64ce4228c38fb2918f135d25f557203\"",
+   "Size": 239075328,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/06/events.json.gz",
+   "LastModified": "2024-07-07T03:15:00+00:00",
+   "ETag": "\"34b9b5df9e7769b10f4205b4907a70c3\"",
+   "Size": 205520896,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/07/events.json.gz",
+   "LastModified": "2024-08-08T03:15:00+00:00",
+   "ETag": "\"c6f877186d76b07e881ed162ae2eb154\"",
+   "Size": 321912832,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/02/08/events.json.gz",
+   "LastModified": "2024-09-09T03:15:00+00:00",
+   "ETag": "\"7403e430ec66a78795e761d17731af10\"",
+   "Size": 272629760,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/01/events.json.gz",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"2e05319acb5c74273f98e2774cbd87ad\"",
+   "Size": 285212672,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/02/events.json.gz",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"930d6eaf14f4733f3e7d1bfbc7a2ea20\"",
+   "Size": 375390208,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/03/events.json.gz",
+   "LastModified": "2024-04-04T03:15:00+00:00",
+   "ETag": "\"57ee05cde00902c77ebff20686734721\"",
+   "Size": 268435456,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/04/events.json.gz",
+   "LastModified": "2024-05-05T03:15:00+00:00",
+   "ETag": "\"faecbd389be4bcfc49b64a0872e6cc3a\"",
+   "Size": 383778816,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/05/events.json.gz",
+   "LastModified": "2024-06-06T03:15:00+00:00",
+   "ETag": "\"2a3af4d46b0a18e8830e07bc1e398f10\"",
+   "Size": 207618048,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/06/events.json.gz",
+   "LastModified": "2024-07-07T03:15:00+00:00",
+   "ETag": "\"7d2caf82eeeacbe226e875555790f82e\"",
+   "Size": 391118848,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/07/events.json.gz",
+   "LastModified": "2024-08-08T03:15:00+00:00",
+   "ETag": "\"13deef86ab1031d0f646e1f40a097c97\"",
+   "Size": 300941312,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/app/2024/03/08/events.json.gz",
+   "LastModified": "2024-09-09T03:15:00+00:00",
+   "ETag": "\"e01f5057ca02135e92b1d3f28ede0d7a\"",
+   "Size": 393216000,
+   "StorageClass": "STANDARD"
+  },
+  {
+   "Key": "logs/archive/2022/q1.tar",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"98289fcd59a54a7bb1fee08f57124242\"",
+   "Size": 42949672960,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2022/q2.tar",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"119a72d174c9df6acc011cdd9474031b\"",
+   "Size": 54760833024,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2022/q3.tar",
+   "LastModified": "2024-04-04T03:15:00+00:00",
+   "ETag": "\"b2715945795e8229451abd81f1d69ed6\"",
+   "Size": 26843545600,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2022/q4.tar",
+   "LastModified": "2024-05-05T03:15:00+00:00",
+   "ETag": "\"4f426dcbb394fb36bb2d420f0f88080b\"",
+   "Size": 25769803776,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2023/q1.tar",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"72158370d269a9a5ae658f33fe3b890b\"",
+   "Size": 60129542144,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2023/q2.tar",
+   "LastModified": "2024-03-03T03:15:00+00:00",
+   "ETag": "\"ab2cd31ee315128862c33a4fb774eb52\"",
+   "Size": 40802189312,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2023/q3.tar",
+   "LastModified": "2024-04-04T03:15:00+00:00",
+   "ETag": "\"5affb2297631a992f0ce583505c6af07\"",
+   "Size": 45097156608,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "logs/archive/2023/q4.tar",
+   "LastModified": "2024-05-05T03:15:00+00:00",
+   "ETag": "\"0f17a3007e62aa0a1df9fd789c653938\"",
+   "Size": 32212254720,
+   "StorageClass": "GLACIER"
+  },
+  {
+   "Key": "manifest.json",
+   "LastModified": "2024-02-02T03:15:00+00:00",
+   "ETag": "\"000f49c81a358ca00d75985d99c94309\"",
+   "Size": 18833,
+   "StorageClass": "STANDARD"
+  }
+ ],
+ "RequestCharged": null
+}
